@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[紳士なブログ]]></title>
   <link href="http://mathemathiko.github.com/atom.xml" rel="self"/>
   <link href="http://mathemathiko.github.com/"/>
-  <updated>2013-03-23T21:57:59+09:00</updated>
+  <updated>2013-03-23T23:04:36+09:00</updated>
   <id>http://mathemathiko.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[mathemathiko]]></name>
+    <email><![CDATA[my.tears13@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[At First]]></title>
+    <link href="http://mathemathiko.github.com/blog/2013/03/23/at-first/"/>
+    <updated>2013-03-23T22:45:00+09:00</updated>
+    <id>http://mathemathiko.github.com/blog/2013/03/23/at-first</id>
+    <content type="html"><![CDATA[<p>ブログ始めて見ました。</p>
+
+<p>慣れてきたらはてなブログから移動してみようと思います。</p>
+]]></content>
+  </entry>
   
 </feed>
