@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://mathemathiko.github.com/blog/2013/03/23/at-first/</loc>
-        <lastmod>2013-03-23T23:32:38+09:00</lastmod>
+        <lastmod>2013-03-23T23:54:09+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mathemathiko.github.com/archives/</loc>
+        <lastmod>2013-03-23T23:54:09+09:00</lastmod>
     </url>
     <url>
         <loc>http://mathemathiko.github.com/blog/archives/</loc>
-        <lastmod>2013-03-23T23:32:38+09:00</lastmod>
+        <lastmod>2013-03-23T23:54:09+09:00</lastmod>
     </url>
     <url>
         <loc>http://mathemathiko.github.com/</loc>
-        <lastmod>2013-03-23T23:32:38+09:00</lastmod>
+        <lastmod>2013-03-23T23:54:09+09:00</lastmod>
     </url>
 </urlset>
